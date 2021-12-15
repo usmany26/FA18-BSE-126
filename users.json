@@ -1,44 +1,20 @@
 [
     {
       "id":1,
-      "username": "usmany",
-      "password": "12345",
-      "address" : "ISB"
+      "username": "Rubab",
+      "password": "123",
+      "address" : "Kharian"
     },
     {
       "id":2,
-      "username": "zamany",
-      "password": "12345",
-      "address" : "TOBA"
+      "username": "Zaman",
+      "password": "123",
+      "address" : "Toba"
     },
     {
       "id":3,
-      "username": "kamrany",
-      "password": "12345",
-      "address" : "mlt"
-    },
-    {
-      "id":4,
-      "username": "naveedy",
-      "password": "12345",
-      "address" : "GB"
-    },
-    {
-      "id":5,
-      "username": "shayan",
-      "password": "12345",
-      "address" : "lhr"
-    },
-    {
-      "id":6,
-      "username": "asad",
-      "password": "12345",
-      "address" : "lhr"
-    },
-    {
-      "id":7,
-      "username": "nouman",
-      "password": "12345",
-      "address" : "kpco"
+      "username": "Tayyab",
+      "password": "123",
+      "address" : "Pindi"
     }
   ]
